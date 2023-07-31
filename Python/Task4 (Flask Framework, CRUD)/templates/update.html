@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %} FlaskFW {% endblock %}
+
+{% block body %} 
+            <form action='' method = "POST">
+                <p>name <input type = "text" name = "name" value="{{item.name}}"/></p>
+                <p>brand <input type = "text" name = "brand"  value="{{item.brand}}"/></p>
+                <p>price <input type = "integer" name = "price" value="{{item.price}}"/></p>
+                <p><input type = "submit" value = "Submit" /></p>
+            </form>
+            <br><strong><a href="/items">Back</a></strong>
+{% endblock %}

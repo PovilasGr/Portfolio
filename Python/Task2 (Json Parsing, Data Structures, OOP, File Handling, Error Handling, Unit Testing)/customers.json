@@ -1,0 +1,37 @@
+[
+    {
+        "customer_id":24,
+        "firstname":"Povilas",
+        "gmail":"povilas.grigas@mif.vu.stud.lt",
+        "item_list": [2, 3],
+        "discount": "pvm"
+    },
+    {
+        "customer_id":14,
+        "firstname":"Jonas",
+        "gmail":"Jonas@gmail.com",
+        "item_list": [4, 3, 5],
+        "discount": "None"
+    },
+    {
+        "customer_id":17,
+        "firstname":"Mindaugas",
+        "gmail":"Mindaugas@gmail.com",
+        "item_list": [1],
+        "discount": "black_friday_discount"
+    },
+    {
+        "customer_id":5,
+        "firstname":"Laura",
+        "gmail":"Laura@gmail.com",
+        "item_list": [5, 5],
+        "discount": "easter_discount"
+    },
+    {
+        "customer_id":2,
+        "firstname":"Monika",
+        "gmail":"Monika@gmail.com",
+        "item_list": [4, 3],
+        "discount": "None"
+    }
+]

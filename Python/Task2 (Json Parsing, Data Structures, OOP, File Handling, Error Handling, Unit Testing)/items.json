@@ -1,0 +1,32 @@
+[
+        {
+            "item_id":1,
+            "item_name":"Loptop",
+            "item_brand":"Lenovo", 
+            "item_price": 799.99
+        },
+        {
+            "item_id":2,
+            "item_name":"iPhone 13",
+            "item_brand":"Apple", 
+            "item_price": 899.99
+        },
+        {
+            "item_id":3,
+            "item_name":"Monitor",
+            "item_brand":"AOC", 
+            "item_price": 345.99
+        },
+        {
+            "item_id":4,
+            "item_name":"TV",
+            "item_brand":"Samsung", 
+            "item_price": 1449.99
+        },
+        {
+            "item_id":5,
+            "item_name":"Watch",
+            "item_brand":"Rolex", 
+            "item_price": 2139.49
+        }
+    ]

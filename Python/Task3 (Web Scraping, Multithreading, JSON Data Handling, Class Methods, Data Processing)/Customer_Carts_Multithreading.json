@@ -1,0 +1,98 @@
+[
+    {
+        "Customer_ID": 24,
+        "Customer_Name": "Povilas",
+        "Customer_Gmail": "povilas.grigas@mif.vu.stud.lt",
+        "Cart_Item_IDs": [
+            124,
+            137,
+            112,
+            102
+        ],
+        "Item_Names": [
+            "Planšetė Allview Viva H1003 LTE Pro 10.1 \", Juodas, TFT IPS, 1280 x 800 pikselių, Helio P35, Cortex A53, 3 GB, 32 GB, 4G, Wi-Fi, 3G, Front camera, 2 MP, Rear camera, 5 MP, Bluetooth, 5.0, Android, 10.0",
+            "Stacionarus kompiuteris Apple iMac 24'' Retina 4.5K (MJV93ZE/A) Mėlyna",
+            "Žaidimų kompiuteris Lenovo IdeaPad Gaming 3 15.6\" FullHD IPS 120Hz / AMD Ryzen 5 5600H iki 4.2Ghz / 512Gb SSD PCIe / 8Gb RAM DDR4 / GeForce RTX3050 4Gb / WiFi AX / USB C /",
+            "Žaidimų kompiuteris Lenovo Gaming 3 15.6\" FullHD IPS / Intel Core i5-11300H iki 4.4Ghz / 8GB RAM / 512Gb SSD PCIe / GeForce RTX 3050 4Gb / USB 3.2 / HDMI / WiFi AC / šviečianti klaviatūra / Windows 10"
+        ],
+        "Cart_Total": 3183.98
+    },
+    {
+        "Customer_ID": 14,
+        "Customer_Name": "Jonas",
+        "Customer_Gmail": "Jonas@gmail.com",
+        "Cart_Item_IDs": [
+            111,
+            149,
+            147
+        ],
+        "Item_Names": [
+            "Nešiojamas kompiuteris MacBook Air 13” Apple M1 8C CPU, 8C GPU/8GB/512GB SSD/Gold/INT",
+            "HP 6305 SFF A8-5500 8GB 1TB WIN10PRO/W7P (RW14965) (Atnaujinta)",
+            "DELL 3020 SFF i3-4130 8GB 120SSD DVDRW WIN7Pro (RW2776) (Atnaujinta)"
+        ],
+        "Cart_Total": 1495.29
+    },
+    {
+        "Customer_ID": 17,
+        "Customer_Name": "Mindaugas",
+        "Customer_Gmail": "Mindaugas@gmail.com",
+        "Cart_Item_IDs": [
+            132,
+            139,
+            144,
+            121,
+            109
+        ],
+        "Item_Names": [
+            "Stacionarus kompiuteris Apple iMac 24\" Retina 4.5K M1/8/512 Z12V0005X US-NUM",
+            "Stacionarus kompiuteris AMD Matrexx | R5-5600X | 16GB RAM | 480GB SSD | RTX 3060 | Win10",
+            "Stacionarus kompiuteris Intel i5 Matrexx | i5-10400F | 16GB RAM | 1TB SSD | RTX 3060 | Win10",
+            "Planšetė Planšetinis kompiuteris „Samsung Galaxy Tab A8 10,5\" 64 GB 4G LTE pilka (SM-X205NZAEEUE)",
+            "Žaidimų kompiuteris MSI GF66  15.6\" FullHD IPS 144Hz / Intel Core i7-11800H iki 4.6Ghz / 16GB RAM / 512GB SSD PCIe / GeForce RTX3070 8Gb / USB C / HDMI / WiFi AX / šviečianti klaviatūra"
+        ],
+        "Cart_Total": 5878.88
+    },
+    {
+        "Customer_ID": 5,
+        "Customer_Name": "Laura",
+        "Customer_Gmail": "Laura@gmail.com",
+        "Cart_Item_IDs": [
+            100,
+            123,
+            141,
+            104,
+            120,
+            140
+        ],
+        "Item_Names": [
+            "Žaidimų kompiuteris Acer Nitro 5 15.6\" FullHD 144Hz / AMD Ryzen 7 5800H iki 4.4Ghz / GeForce RTX3070 8Gb / 16GB RAM / 1TB PCIe NVMe SSD / USB 3.2 type C / WiFi AX / RGB klaviatūros apšvietimas / Windows 11",
+            "Planšetė Apple iPad Air 10.9\" Wi-Fi + Cellular 64GB - Kosminė pilka 4th Gen (2020)",
+            "Stacionarus kompiuteris Intel i5 Fractal | i5-9400F | 16GB RAM | 480GB SSD | RTX 3050 | Win10",
+            "Nešiojamas kompiuteris Apple NK MacBook Pro 13.3\" Retina MWP42ZE/A QC",
+            "Kruger & Matz EAGLE 1072 planšetė",
+            "Stacionarus kompiuteris Intel i7 Matrexx | i7-11700K | 16GB | 480GB | GTX 3060 | Win10"
+        ],
+        "Cart_Total": 6014.65
+    },
+    {
+        "Customer_ID": 2,
+        "Customer_Name": "Monika",
+        "Customer_Gmail": "Monika@gmail.com",
+        "Cart_Item_IDs": [
+            130,
+            122,
+            145,
+            125,
+            115
+        ],
+        "Item_Names": [
+            "Stacionarus kompiuteris Apple iMac 24'' Retina 4.5K (MGPK3ZE/A) Mėlyna",
+            "Planšetė Apple iPad Air 10.9\" Wi-Fi 64GB - Sidabrinis 4th Gen (2020)",
+            "Stacionarus kompiuteris HP 8200 Elite SFF i5-2500/16/2TB/W10 Pro",
+            "Planšetė Apple iPad mini Wi-Fi 64GB Kosminė pilka, 6th Gen (2021)",
+            "ESR Stylus Pen skaitmeninis pieštukas, juodas"
+        ],
+        "Cart_Total": 2977.84
+    }
+]

@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %} Create Item {% endblock %}
+
+{% block body %} 
+                <h1>Create Item</h1>
+                <form action='' method = "POST">
+                    <p>name <input type = "text" name = "name" required></p>
+                    <p>brand <input type = "text" name = "brand" required></p>
+                    <p>price <input type = "integer" name = "price" required></p>
+                    <p><input type = "submit" value = "Submit" /></p>
+                  </form>
+                <br/>
+                <br><strong><a href="/items">Back</a></strong>
+{% endblock %}

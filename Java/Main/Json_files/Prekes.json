@@ -1,0 +1,59 @@
+[
+{
+  "kodas":0,
+  "pavadinimas":"Pienas",
+  "salis":"LT",
+  "kainaVnt":2,
+  "konservantai":["E1", "E2"]
+},
+{
+  "kodas":1,
+  "pavadinimas":"Knyga",
+  "salis":"EN",
+  "kainaVnt":10,
+  "konservantai":[]
+},
+{
+  "kodas":2,
+  "pavadinimas":"Duona",
+  "salis":"LT",
+  "kainaVnt":1,
+  "konservantai":["E2", "E3"]
+},
+{
+  "kodas":3,
+  "pavadinimas":"Suris",
+  "salis":"EN",
+  "kainaVnt":8,
+  "konservantai":["E1", "E2", "E3"]
+},
+{
+  "kodas":4,
+  "pavadinimas":"Saldainiai",
+  "salis":"EN",
+  "kainaVnt":5,
+  "konservantai":["E1"]
+}
+,
+{
+  "kodas":5,
+  "pavadinimas":"Piestukas",
+  "salis":"LT",
+  "kainaVnt":0.2,
+  "konservantai":[]
+},
+{
+  "kodas":6,
+  "pavadinimas":"Trintukas",
+  "salis":"LT",
+  "kainaVnt":0.3,
+  "konservantai":[]
+},
+{
+  "kodas":7,
+  "pavadinimas":"Sultys",
+  "salis":"EN",
+  "kainaVnt":1,
+  "konservantai":["E3"]
+}
+]

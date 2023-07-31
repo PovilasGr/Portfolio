@@ -1,0 +1,72 @@
+[
+    {
+        "customer_id": 24,
+        "Name": "Povilas",
+        "gmail": "povilas.grigas@mif.vu.stud.lt",
+        "item_ids": [
+            2,
+            3
+        ],
+        "item_names": [
+            "iPhone 13",
+            "Monitor"
+        ],
+        "cart_total": 984.32
+    },
+    {
+        "customer_id": 14,
+        "Name": "Jonas",
+        "gmail": "Jonas@gmail.com",
+        "item_ids": [
+            4,
+            3,
+            5
+        ],
+        "item_names": [
+            "TV",
+            "Monitor",
+            "Watch"
+        ],
+        "cart_total": 3935.47
+    },
+    {
+        "customer_id": 17,
+        "Name": "Mindaugas",
+        "gmail": "Mindaugas@gmail.com",
+        "item_ids": [
+            1
+        ],
+        "item_names": [
+            "Loptop"
+        ],
+        "cart_total": 559.99
+    },
+    {
+        "customer_id": 5,
+        "Name": "Laura",
+        "gmail": "Laura@gmail.com",
+        "item_ids": [
+            5,
+            5
+        ],
+        "item_names": [
+            "Watch",
+            "Watch"
+        ],
+        "cart_total": 3851.08
+    },
+    {
+        "customer_id": 2,
+        "Name": "Monika",
+        "gmail": "Monika@gmail.com",
+        "item_ids": [
+            4,
+            3
+        ],
+        "item_names": [
+            "TV",
+            "Monitor"
+        ],
+        "cart_total": 1795.98
+    }
+]

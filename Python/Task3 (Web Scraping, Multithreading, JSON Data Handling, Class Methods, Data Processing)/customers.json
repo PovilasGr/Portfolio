@@ -1,0 +1,32 @@
+[
+    {
+        "customer_id":24,
+        "firstname":"Povilas",
+        "gmail":"povilas.grigas@mif.vu.stud.lt",
+        "item_list": [124, 137, 112, 102]
+    },
+    {
+        "customer_id":14,
+        "firstname":"Jonas",
+        "gmail":"Jonas@gmail.com",
+        "item_list": [111, 149, 147]
+    },
+    {
+        "customer_id":17,
+        "firstname":"Mindaugas",
+        "gmail":"Mindaugas@gmail.com",
+        "item_list": [132, 139, 144, 121, 109]
+    },
+    {
+        "customer_id":5,
+        "firstname":"Laura",
+        "gmail":"Laura@gmail.com",
+        "item_list": [100, 123, 141, 104, 120, 140]
+    },
+    {
+        "customer_id":2,
+        "firstname":"Monika",
+        "gmail":"Monika@gmail.com",
+        "item_list": [130, 122, 145, 125, 115]
+    }
+]

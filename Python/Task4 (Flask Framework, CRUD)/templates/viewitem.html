@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %} FlaskFW {% endblock %}
+
+{% block body %} 
+                <h1>Item {{ item.id }} Details</h1>
+                    <h3>Name</h3>
+                    <p>{{item.name}}</p><hr>
+                    <h3>Brand</h3>
+                    <p>{{item.brand}}</p><hr>
+                    <h3>Price</h3>
+                    <p>{{item.price}}</p><hr>
+                    <br><strong><a href="/items">Back</a></strong>
+{% endblock %}

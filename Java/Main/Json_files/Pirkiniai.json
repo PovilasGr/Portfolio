@@ -1,0 +1,27 @@
+[
+{
+  "zmogausId":1,
+  "prekesKodas":1,
+  "vnt":2
+},
+{
+  "zmogausId":2,
+  "prekesKodas":3,
+  "vnt":5
+},
+{
+  "zmogausId":1,
+  "prekesKodas":2,
+  "vnt":3
+},
+{
+  "zmogausId":2,
+  "prekesKodas":6,
+  "vnt":10
+},
+{
+  "zmogausId":1,
+  "prekesKodas":4,
+  "vnt":5
+}
+]

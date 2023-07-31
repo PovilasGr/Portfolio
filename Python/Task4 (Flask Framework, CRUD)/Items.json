@@ -1,0 +1,362 @@
+[
+    {
+        "item_id": 130,
+        "item_name": "Stacionarus kompiuteris Actina PC DDR4-SDRAM i3-10100 Mini Tower 10th gen Intel® Core™ i3 8 GB 512 GB SSD Windows 10 Pro Black (5901443295532 )",
+        "item_brand": "Actina",
+        "item_price": 621.99
+    },
+    {
+        "item_id": 131,
+        "item_name": "Stacionarus kompiuteris Actina  PC DDR4-SDRAM 4700G Midi Tower AMD Ryzen™ 7 16 GB 500 GB SSD Juodas (5901443308003)",
+        "item_brand": "Actina",
+        "item_price": 1203.99
+    },
+    {
+        "item_id": 132,
+        "item_name": "Stacionarus kompiuteris Actina Actina iCUE, Ryzen 7 5800X, 32 GB, RTX 3080, 1 TB M.2 PCIe",
+        "item_brand": "Actina",
+        "item_price": 3288.9
+    },
+    {
+        "item_id": 133,
+        "item_name": "Stacionarus kompiuteris Actina PC DDR4-SDRAM 3600 Midi Tower 3rd Generation AMD Ryzen 5 16 GB 512 GB SSD Juodas (5901443236962 )",
+        "item_brand": "Actina",
+        "item_price": 1174.99
+    },
+    {
+        "item_id": 134,
+        "item_name": "Stacionarus kompiuteris Actina 5901443305262 PC DDR4-SDRAM i3-12100F Midi Tower Intel® Core™ i3 16 GB 500 GB SSD",
+        "item_brand": "Actina",
+        "item_price": 1008.99
+    },
+    {
+        "item_id": 135,
+        "item_name": "Stacionarus kompiuteris iMac 24” 4.5K Retina, Apple M1 8C CPU, 8C GPU/8GB/256GB SSD/Mėlyna/INT",
+        "item_brand": "Apple",
+        "item_price": 1509.0
+    },
+    {
+        "item_id": 136,
+        "item_name": "Stacionarus kompiuteris Apple iMac 24\" Retina 4.5K M1/8/512 Z12V0005X US-NUM",
+        "item_brand": "Apple",
+        "item_price": 1819.0
+    },
+    {
+        "item_id": 137,
+        "item_name": "Stacionarus kompiuteris iMac 24” 4.5K Retina, Apple M1 8C CPU, 7C GPU/8GB/256GB",
+        "item_brand": "Apple",
+        "item_price": 1449.0
+    },
+    {
+        "item_id": 138,
+        "item_name": "Stacionarus kompiuteris iMac 24\" Retina 4.5K M1 8C 8C/5/512 Geltona Z12T0005X",
+        "item_brand": "Apple",
+        "item_price": 1819.0
+    },
+    {
+        "item_id": 139,
+        "item_name": "Stacionarus kompiuteris iMac 24” 4.5K Retina, Apple M1 8C CPU, 8C GPU/8GB/512GB SSD/Mėlyna/INT",
+        "item_brand": "Apple",
+        "item_price": 1670.9
+    },
+    {
+        "item_id": 140,
+        "item_name": "Stacionarus kompiuteris AMD Matrexx | R5-5600X | 16GB RAM | 500GB SSD | RTX 3060 Ti | WIN10 (NEAKTYVUOTI)",
+        "item_brand": "AMD",
+        "item_price": 1179.0
+    },
+    {
+        "item_id": 141,
+        "item_name": "Stacionarus kompiuteris Asus A5401WRAK-BA049W Desktop PC, AIO, Intel Core i5, i5-10500T, Internal memory 8 GB, DDR4 SO-DIMM, SSD 512 GB, Windows 11 Home, 23.8 \", IPS, FHD, 1920 x 1080, 16:9, Juodas, Audio Jack (3.5 mm), HDMI jungtys quantity 2, Wireless golden keyboard and wireless optinė pelė",
+        "item_brand": "Asus",
+        "item_price": 853.07
+    },
+    {
+        "item_id": 142,
+        "item_name": "Stacionarus kompiuteris AMD Matrexx | R5-5600X | 16GB RAM | 500GB SSD | RTX 3060 | Win10 (NEAKTYVUOTI)",
+        "item_brand": "AMD",
+        "item_price": 1099.0
+    },
+    {
+        "item_id": 143,
+        "item_name": "Stacionarus kompiuteris  PC MSI MEG Infinite X11TE1400EU Gaming Desktop CPU Core i7-11700KF 3600 MHz RAM 32GB DDR4 3200 MHz HDD 1TB 7200 rpm SSD 1TB+1TB Graphics card GeForce RTX 3080 10GB Windows 11 Home",
+        "item_brand": "MSI",
+        "item_price": 3238.06
+    },
+    {
+        "item_id": 144,
+        "item_name": "Stacionarus kompiuteris Intel i7 Matrexx | i7-10700F | 16GB RAM | 1TB SSD | RTX 3060 | Win10 (NEAKTYVUOTI)",
+        "item_brand": "Intel",
+        "item_price": 1299.0
+    },
+    {
+        "item_id": 115,
+        "item_name": "Planšetė Planšetinis kompiuteris GALAXY TAB A8 10.5\"/64GB LTE Rožinis SM-X205 SAMSUNG",
+        "item_brand": "Samsung",
+        "item_price": 249.0
+    },
+    {
+        "item_id": 116,
+        "item_name": "Planšetė Apple iPad Air 10.9\" Wi-Fi + Cellular 64GB - Kosminė pilka 4th Gen (2020)",
+        "item_brand": "Apple",
+        "item_price": 757.77
+    },
+    {
+        "item_id": 117,
+        "item_name": "Planšetė Planšetinis kompiuteris SURFACE PRO7 12\" 256GB/PVR-00018 MICROSOFT",
+        "item_brand": "Microsoft",
+        "item_price": 917.18
+    },
+    {
+        "item_id": 118,
+        "item_name": "Planšetė Planš. Hannspree HANNSpad 2/16GB Titan3 (Ekspozicinė prekė)",
+        "item_brand": "Microsoft",
+        "item_price": 219.34
+    },
+    {
+        "item_id": 119,
+        "item_name": "Planšetė HUAWEI MatePad Pro WiFi 6GB+128GB Midnight Gray [27,43cm (10,8\") IPS Ekranas, Android 10, 13MP Kamera]",
+        "item_brand": "Huawei",
+        "item_price": 394.0
+    },
+    {
+        "item_id": 120,
+        "item_name": "I.C.O.N. Pieštukas Lenovo GX81B10212 (Naudoti C)",
+        "item_brand": "I.C.O.N.",
+        "item_price": 43.99
+    },
+    {
+        "item_id": 121,
+        "item_name": "Planšetė Samsung Galaxy Tab A8 X205 10.5 \", Sidabrinis, TFT, 1200 x 1920, Unisoc Tiger, T618, 3 GB, 32 GB, Wi-Fi, Front camera, 5 MP, Rear camera, 8 MP, Bluetooth, 5.0, Android, 11",
+        "item_brand": "Samsung",
+        "item_price": 232.28
+    },
+    {
+        "item_id": 122,
+        "item_name": "Planšetė Samsung Galaxy Tab S8 5G 8GB/128 GB Pilkas (Gray)",
+        "item_brand": "Samsung",
+        "item_price": 841.22
+    },
+    {
+        "item_id": 123,
+        "item_name": "Stiklinė rašikliams V7 PS1USI Planšetė",
+        "item_brand": "V7",
+        "item_price": 43.99
+    },
+    {
+        "item_id": 124,
+        "item_name": "Planšetė Samsung Galaxy Tab S6 Lite SM-P615N 4G LTE 128 GB 26.4 cm (10.4\") 4 GB Wi-Fi 5 (802.11ac) Pilkas",
+        "item_brand": "Samsung",
+        "item_price": 419.16
+    },
+    {
+        "item_id": 125,
+        "item_name": "Kruger & Matz EAGLE 1072 planšetė",
+        "item_brand": "Kruger & Matz",
+        "item_price": 216.8
+    },
+    {
+        "item_id": 126,
+        "item_name": "Rašalo širdutės išmaniesiems Livescribe tušinukams 5vnt. ARA00007",
+        "item_brand": "Kruger & Matz",
+        "item_price": 10.78
+    },
+    {
+        "item_id": 127,
+        "item_name": "Planšetė Samsung T733N Galaxy Tab S7 FE WiFi 12.4 64GB (Žalias)",
+        "item_brand": "Samsung",
+        "item_price": 498.86
+    },
+    {
+        "item_id": 128,
+        "item_name": "Planšetė Apple iPad Air 10.9\" Wi-Fi 64GB - Sidabrinis 4th Gen (2020)",
+        "item_brand": "Apple",
+        "item_price": 633.44
+    },
+    {
+        "item_id": 129,
+        "item_name": "Planšetė Apple iPad mini Wi-Fi 64GB Kosminė pilka, 6th Gen (2021)",
+        "item_brand": "Apple",
+        "item_price": 568.9
+    },
+    {
+        "item_id": 100,
+        "item_name": "Nešiojamas kompiuteris MSI GF65 10UE-051XPL Core i7-10750H | LCD: 15.6\" FHD 144Hz | Nvidia RTX 3060 Max-Q 6GB | RAM: 8GB | SSD: 512GB M.2 PCIe | No Os",
+        "item_brand": "MSI",
+        "item_price": 1249.0
+    },
+    {
+        "item_id": 101,
+        "item_name": "Žaidimų kompiuteris Lenovo Gaming 3 15.6\" FullHD IPS / Intel Core i5-11300H iki 4.4Ghz / 8GB RAM / 512Gb SSD PCIe / GeForce RTX 3050 4Gb / USB 3.2 / HDMI / WiFi AC / šviečianti klaviatūra / Windows 10",
+        "item_brand": "Lenovo",
+        "item_price": 829.0
+    },
+    {
+        "item_id": 102,
+        "item_name": "Žaidimų kompiuteris MSI GF66  15.6\" FullHD IPS 144Hz / Intel Core i7-11800H iki 4.6Ghz / 16GB RAM / 512GB SSD PCIe / GeForce RTX3070 8Gb / USB C / HDMI / WiFi AX / šviečianti klaviatūra",
+        "item_brand": "MSI",
+        "item_price": 1499.0
+    },
+    {
+        "item_id": 103,
+        "item_name": "Nešiojamas kompiuteris Apple NK MacBook Pro 13.3\" Retina MWP42ZE/A QC",
+        "item_brand": "Apple",
+        "item_price": 1259.0
+    },
+    {
+        "item_id": 104,
+        "item_name": "Nešiojamas kompiuteris Noteb. Apple MacBook Pro 14,2\" (2021), Kosminė pilka, ENG",
+        "item_brand": "Apple",
+        "item_price": 2769.0
+    },
+    {
+        "item_id": 105,
+        "item_name": "Žaidimų kompiuteris MSI GF63 11UC 15.6\" FullHD 144Hz / Intel Core i7-11800H iki 4.6Ghz / GeForce RTX3050 4Gb / 8GB RAM / 512Gb SSD / USB 3.2 type C / WiFi AX / HDMI",
+        "item_brand": "MSI",
+        "item_price": 929.0
+    },
+    {
+        "item_id": 106,
+        "item_name": "Nešiojamas kompiuteris Lenovo V14 14\" FullHD matinis / Intel Core i3-1005G1 iki 3.4Ghz / 8GB RAM / 256Gb SSD / WiFi AC / Intel® UHD Graphics / kamera / Windows 10",
+        "item_brand": "Lenovo",
+        "item_price": 505.78
+    },
+    {
+        "item_id": 107,
+        "item_name": "Rivacase Alpendorf 7520 juodas krepšys nešiojamam kompiuteriui iki 13,3\"",
+        "item_brand": "RivaCase",
+        "item_price": 24.72
+    },
+    {
+        "item_id": 108,
+        "item_name": "Žaidimų kompiuteris Lenovo IdeaPad Gaming 3 15.6\" FullHD IPS 60Hz / AMD Ryzen 5 5600H iki 4.2Ghz / 512Gb SSD PCIe / 16Gb RAM DDR4 / GeForce RTX3050 4Gb / WiFi AX / USB C /",
+        "item_brand": "Lenovo",
+        "item_price": 769.0
+    },
+    {
+        "item_id": 109,
+        "item_name": "Nešiojamas kompiuteris Apple MacBook Pro 14, M1 Pro lustas, 14 col. 10‑core CPU, 16‑core GPU, 1TB SSD, Sidabrinis (Sidabrinis)",
+        "item_brand": "Apple",
+        "item_price": 2729.99
+    },
+    {
+        "item_id": 110,
+        "item_name": "Kuprinė Rivacase BISCAYNE 8365 nešiojamam kompiuteriui iki 17,3\" (juoda)",
+        "item_brand": "RivaCase",
+        "item_price": 49.94
+    },
+    {
+        "item_id": 111,
+        "item_name": "Rivacase 8365 kuprinė nešiojamam kompiuteriui 17.3 mėlyna",
+        "item_brand": "RivaCase",
+        "item_price": 49.94
+    },
+    {
+        "item_id": 112,
+        "item_name": "Žaidimų kompiuteris Lenovo Gaming 3 15.6\" FullHD IPS / AMD Ryzen 5 5600H iki 4.2Ghz / 8GB RAM / 512Gb SSD PCIe / GeForce RTX 3050 4Gb / USB 3.2 / HDMI / WiFi AC / šviečianti klaviatūra / Windows 10",
+        "item_brand": "Lenovo",
+        "item_price": 801.35
+    },
+    {
+        "item_id": 113,
+        "item_name": "RIVACASE NARITA 8125 kuprinė nešiojamam kompiuteriui iki 14\" (Juoda)",
+        "item_brand": "RivaCase",
+        "item_price": 36.02
+    },
+    {
+        "item_id": 114,
+        "item_name": "RivaCase Kompiuterio Krepšys 7520 13.3\" Pilkas",
+        "item_brand": "RivaCase",
+        "item_price": 24.72
+    },
+    {
+        "item_id": 145,
+        "item_name": "Stacionarus kompiuteris HP 8200 Elite SFF i5-2500/16/2TB/W10 Pro",
+        "item_brand": "Elite",
+        "item_price": 196.51
+    },
+    {
+        "item_id": 146,
+        "item_name": "HP 8100 Elite SFF i7-860 16GB 1TB DVD WIN10PRO/W7P (RW4327P4) (Atnaujinta)",
+        "item_brand": "HP",
+        "item_price": 207.84
+    },
+    {
+        "item_id": 147,
+        "item_name": "HP 600 G1 SFF i5-4570 16GB 480SSD WIN10PRO/W7P (RW7634P4) (Atnaujinta)",
+        "item_brand": "HP",
+        "item_price": 218.8
+    },
+    {
+        "item_id": 148,
+        "item_name": "DELL 3010 MT i5-3470 8GB 960SSD GTX1650 4GB DVD WIN10PRO/W7P (RW17388P4) (Atnaujinta)",
+        "item_brand": "Dell",
+        "item_price": 507.44
+    },
+    {
+        "item_id": 149,
+        "item_name": "DELL 3020 SFF i3-4130 16GB 480SSD GT1030 2GB DVDRW WIN7Pro (PG2791) (Atnaujinta)",
+        "item_brand": "Dell",
+        "item_price": 303.3
+    },
+    {
+        "item_id": 150,
+        "item_name": "DELL 3020 SFF i3-4130 16GB 480SSD GT1030 2GB DVDRW WIN7Pro (RW2791) (Atnaujinta)",
+        "item_brand": "Dell",
+        "item_price": 303.3
+    },
+    {
+        "item_id": 151,
+        "item_name": "ITS i5-4590 32GB 960SSD+1TB R7-240 4GB WIN10Pro (RW25687) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 581.8
+    },
+    {
+        "item_id": 152,
+        "item_name": "ITS i5-4590 32GB 480SSD+1TB R7-240 4GB WIN10Pro (RW25686) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 538.12
+    },
+    {
+        "item_id": 153,
+        "item_name": "ITS i5-4590 32GB 240SSD+1TB R7-240 4GB WIN10Pro (RW25685) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 518.35
+    },
+    {
+        "item_id": 154,
+        "item_name": "ITS i5-4590 32GB 960SSD R7-240 4GB WIN10Pro (RW25684) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 559.96
+    },
+    {
+        "item_id": 155,
+        "item_name": "ITS i5-4590 32GB 480SSD R7-240 4GB WIN10Pro (RW25683) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 516.28
+    },
+    {
+        "item_id": 156,
+        "item_name": "ITS i5-4590 32GB 240SSD R7-240 4GB WIN10Pro (RW25682) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 496.5
+    },
+    {
+        "item_id": 157,
+        "item_name": "ITS i5-4590 32GB 960SSD+1TB R7-240 4GB WIN10Pro (RW25669) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 554.86
+    },
+    {
+        "item_id": 158,
+        "item_name": "ITS i5-4590 32GB 480SSD+1TB R7-240 4GB WIN10Pro (RW25668) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 511.21
+    },
+    {
+        "item_id": 159,
+        "item_name": "ITS i5-4590 32GB 240SSD+1TB R7-240 4GB WIN10Pro (RW25667) (Atnaujinta)",
+        "item_brand": "ITS",
+        "item_price": 491.41
+    }
+]

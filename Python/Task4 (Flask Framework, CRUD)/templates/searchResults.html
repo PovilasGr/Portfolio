@@ -1,0 +1,56 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Results:
+{% endblock %}
+
+{% block body %}
+<div class = "container mt-5">
+    <legend class="border-bottom mb-4">All items list</legend>
+    <form class="form-inline md-form mr-auto" action="{{url_for('search')}}" method="post">
+        {{ form.hidden_tag() }}
+        {% if form.search.errors %}
+            {{ form.search(class="form-control is-invalid") }}
+                <div class="invalid-feedback">
+                    {% for error in form.search.errors %}
+                        <span>{{ error }}</span>
+                    {% endfor %}
+                </div>
+            {% else %}
+            {{ form.search(class="form-control col-lg-8 mr-lg-2", placeholder = "Search", type = "text") }}
+        {% endif %}  
+        {{ form.submit(class="btn btn-outline-success btn-rounded btn-sm my-0 waves-effect waves-light", type="submit") }}
+    </form>
+    <br/>
+    <h3>Items Found:</h3>
+    <table class="table table-head-fixed" border=1>
+        <thead>
+            <tr>
+                <th>id</th>
+                <th>name</th>
+                <th>brand</th>
+                <th>price</th>
+                <th>date modified</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for item in items %}
+            <tr>
+                <td>{{ item.id }}</td>
+                <td>{{ item.name }}</td>
+                <td>{{ item.brand }}</td>
+                <td>{{ item.price }}</td>
+                <td>{{ item.date.strftime('%Y-%m-%d %H:%M:%S') }}</td>
+                <td>
+                    <a href = "/items/{{item.id}}" class = "btn btn-warning">View</a>
+                    <br><a href="/items/{{item.id}}/edit">Edit</a>
+                    <br><a href="/items/{{item.id}}/delete">Delete</a>
+                </td>
+            </tr>
+             {% endfor %}
+        </tbody>
+    </table>
+    <br><strong><a href="/items">Back</a></strong>
+</div>
+{% endblock %} 

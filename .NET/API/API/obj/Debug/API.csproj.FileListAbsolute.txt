@@ -1,0 +1,13 @@
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\API.dll
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\API.pdb
+C:\VU\.NET\NET_HOMEWORK\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\VU\.NET\NET_HOMEWORK\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\VU\.NET\NET_HOMEWORK\API\API\obj\Debug\API.dll
+C:\VU\.NET\NET_HOMEWORK\API\API\obj\Debug\API.pdb
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\Newtonsoft.Json.Bson.dll
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\Newtonsoft.Json.dll
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\Newtonsoft.Json.pdb
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\Newtonsoft.Json.xml
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\Newtonsoft.Json.Bson.pdb
+C:\VU\.NET\NET_HOMEWORK\API\API\bin\Debug\Newtonsoft.Json.Bson.xml
+C:\VU\.NET\NET_HOMEWORK\API\API\obj\Debug\API.csproj.CopyComplete

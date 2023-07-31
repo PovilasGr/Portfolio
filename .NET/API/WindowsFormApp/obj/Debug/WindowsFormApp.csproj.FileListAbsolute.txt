@@ -1,0 +1,17 @@
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\API.dll
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\API.pdb
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.AssemblyReference.cache
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.SuggestedBindingRedirects.cache
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.cache
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CoreCompileInputs.cache
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.CopyComplete
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.pdb
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\Newtonsoft.Json.dll
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\Newtonsoft.Json.pdb
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\bin\Debug\Newtonsoft.Json.xml
+C:\VU\.NET\NET_HOMEWORK\API\WindowsFormApp\obj\Debug\WindowsFormApp.Form1.resources
